@@ -1,0 +1,16 @@
+﻿  FileName.cpp
+E:\programing\cpp\Games\Pong\pong\pong\FileName.cpp(14,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\programing\cpp\Games\Pong\pong\pong\FileName.cpp(14,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\programing\cpp\Games\Pong\pong\pong\FileName.cpp(14,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\programing\cpp\Games\Pong\pong\pong\FileName.cpp(39,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\programing\cpp\Games\Pong\pong\pong\FileName.cpp(40,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\programing\cpp\Games\Pong\pong\pong\FileName.cpp(68,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\programing\cpp\Games\Pong\pong\pong\FileName.cpp(68,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\programing\cpp\Games\Pong\pong\pong\FileName.cpp(68,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\programing\cpp\Games\Pong\pong\pong\FileName.cpp(68,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\programing\cpp\Games\Pong\pong\pong\FileName.cpp(136,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\programing\cpp\Games\Pong\pong\pong\FileName.cpp(139,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\programing\cpp\Games\Pong\pong\pong\FileName.cpp(141,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  pong.vcxproj -> E:\programing\cpp\Games\Pong\pong\x64\Debug\pong.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
